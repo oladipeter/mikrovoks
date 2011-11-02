@@ -33,10 +33,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="13" selection-start="153" selection-end="153" vertical-scroll-proportion="0.0">
+            <state line="10" column="4" selection-start="208" selection-end="208" vertical-scroll-proportion="0.2982456">
               <folding />
             </state>
           </provider>
@@ -60,10 +60,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.html.erb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="application.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="88" selection-start="766" selection-end="766" vertical-scroll-proportion="0.51978415">
+            <state line="17" column="88" selection-start="766" selection-end="766" vertical-scroll-proportion="-11.115385">
               <folding />
             </state>
           </provider>
@@ -92,9 +92,9 @@
         <option value="$PROJECT_DIR$/db/migrate/20110810073343_add_sort_to_menu.rb" />
         <option value="$PROJECT_DIR$/db/migrate/20110810073400_add_sort_to_content.rb" />
         <option value="$PROJECT_DIR$/app/views/layouts/admin.html.erb" />
-        <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/public/stylesheets/site.css" />
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
+        <option value="$PROJECT_DIR$/Gemfile" />
       </list>
     </option>
   </component>
@@ -463,13 +463,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="13" selection-start="153" selection-end="153" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/db/migrate/20110810073400_add_sort_to_content.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="24" selection-start="134" selection-end="134" vertical-scroll-proportion="0.0" />
@@ -477,7 +470,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="88" selection-start="766" selection-end="766" vertical-scroll-proportion="0.51978415">
+        <state line="17" column="88" selection-start="766" selection-end="766" vertical-scroll-proportion="-11.115385">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="4" selection-start="208" selection-end="208" vertical-scroll-proportion="0.2982456">
           <folding />
         </state>
       </provider>
