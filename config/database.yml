@@ -12,7 +12,7 @@ test:
 
 production:
   adapter: mysql2
-  database: mikrokam
-  username: mikrokam
+  database: mikrovoks
+  username: mikrovoks
   password: Globomax1155
   host: localhost
